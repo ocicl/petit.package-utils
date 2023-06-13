@@ -1,0 +1,10 @@
+* petit.package-utils
+
+Petit utilities for packaging
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ichimal/petit.package-utils.git   |
+| commit  | 1201bfb  |
+| systems | petit.package-utils |
+|---------+-------------------------------------------|
+
